@@ -1,5 +1,5 @@
 # 👤 About Me
-💻 Specializing in AI & ML, with expertise in building ML models and pipelines, developing LLM-powered and agentic applications, and designing the backend systems that make them production-ready.<br>
+💻 Specializing in artificial intelligence, with expertise in building machine learning models and pipelines, developing LLM-powered and agentic applications, and designing the backend systems that make them production-ready.<br>
 🧠 Enthusiastic about computational neuroscience, cognitive modeling, and neuroengineering.
 
 # 🛠️ Tech Stack
